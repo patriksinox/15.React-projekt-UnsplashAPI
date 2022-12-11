@@ -69,6 +69,6 @@ img {
 
 @media only screen and (max-width: 600px) {
   .okno {
-    height: 6rem;
+    height: 10rem;
   }
 }
