@@ -92,7 +92,7 @@ function App() {
           </Button>
         </form>
 
-        <Row>
+        <Row md="3" sm="2" xs="1">
           {fotky.map((fotka) => {
             return <Fotka key={fotka.id} {...fotka} />;
           })}
